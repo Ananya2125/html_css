@@ -13,4 +13,4 @@ This is a basic College Management System website built with HTML and CSS. The w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CollegeManagementWebsite.git
+   git clone https://github.com/ananya2125/CollegeManagementWebsite.git
